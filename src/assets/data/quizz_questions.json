@@ -1,0 +1,50 @@
+{
+  "title": "Você seria Naruto ou Sasuke?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual habilidade você valoriza mais?",
+      "options": [
+        {"id": 1, "name": "Determinação e força de vontade", "alias": "A"},
+        {"id": 2, "name": "Genialidade e habilidades únicas", "alias": "B"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você priorizaria salvar em uma batalha?",
+      "options": [
+        {"id": 1, "name": "Seu melhor amigo", "alias": "A"},
+        {"id": 2, "name": "Sua vila ou objetivo pessoal", "alias": "B"},
+        {"id": 3, "name": "Não saberia escolher", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua abordagem ao confrontar um adversário poderoso?",
+      "options": [
+        {"id": 1, "name": "Buscar entendimento e reconciliação", "alias": "B"},
+        {"id": 2, "name": "Buscar superar e dominar", "alias": "A"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que você deseja alcançar ao final da jornada?",
+      "options": [
+        {"id": 1, "name": "Paz e unidade entre todos", "alias": "B"},
+        {"id": 2, "name": "Poder supremo e reconhecimento", "alias": "A"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual seria seu título reconhecido?",
+      "options": [
+        {"id": 1, "name": "O herói da Vila da Folha", "alias": "B"},
+        {"id": 2, "name": "O vingador solitário", "alias": "A"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria como Sasuke!",
+    "B": "Você muito provavelmente seria como Naruto!"
+  }
+}
